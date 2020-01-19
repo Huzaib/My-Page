@@ -1,0 +1,40 @@
+:root{
+    display: inline-block;
+}
+.one{float: left;
+    width: 50%;
+    
+}
+.two{float: right;
+    width: 40%;
+    
+
+}
+#fb{
+    width: 10%;
+}
+#github{
+    width: 10%;
+}
+#insta{
+    width: 11%;
+}
+#mail{
+    width: 10%;
+}
+#hackerrank{
+    width: 10%;
+}
+#LinkedIn{
+    width: 10%;
+}
+
+#image{
+    border-radius: 50%;
+}
+#empty{
+    width: 500px;
+    padding:150px;
+    
+}
+p{font-size: large;}
